@@ -1,1 +1,5 @@
-npm start
+#Overview
+Simple slider
+
+#Run
+```npm start```
